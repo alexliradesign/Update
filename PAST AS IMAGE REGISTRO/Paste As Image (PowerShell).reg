@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\PastAsImage]
+@="Past as image here"
+"Icon"="imageres.dll,-102"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\PastAsImage\command]
+@="powershell.exe -command \"$img = Get-Clipboard -Format Image; $path = '%V'; Set-Location -Path \\\"$path\\\"; $img.Save(\\\"screenshot.jpg\\\")\""
