@@ -1,4 +1,9 @@
-# Bat-Files
-Bat, VBS, PSI, etc... script files collection
+# Download string usando vb.net em três métodos diferntes.
 
-Este código cria uma entrada no menú do mouse click do botão direito que cola uma imagem que foi copiada para a área de transferência "clipboard" na pasta escolhida sem que você tenha que baixar a imagem.
+Como configurar o servidor:
+
+1. Crie projeto no github e adicione um bloco de notas com um texto na primeira linha.
+2. Torne o documento público.
+3. Para melhor organização nomeie o projeto como update.
+4. Nomeie o texto como version.
+5. Dentro do cocumento na primeira linha digite o texto ou número preterido
