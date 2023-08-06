@@ -1,4 +1,4 @@
-# Download string usando vb.net em três métodos diferntes.
+# Download string usando vb.net em três métodos diferentes.
 
 Como configurar o servidor:
 
